@@ -11,7 +11,7 @@ $time = date('Y-m-d H:i:s');
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Ngocuy dep trai</title>
+    <title>Ngocuy dep trai 123</title>
 </head>
 <body>
     <h1><?= htmlspecialchars($message, ENT_QUOTES, 'UTF-8') ?></h1>
