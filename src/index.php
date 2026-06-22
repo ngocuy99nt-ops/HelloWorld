@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 date_default_timezone_set('Asia/Tokyo');
 
-$message = 'Hello from Apache + PHP 7.2 Docker';
+$message = 'Ngocuy dep trai';
 $phpVersion = PHP_VERSION;
 $time = date('Y-m-d H:i:s');
 ?>
